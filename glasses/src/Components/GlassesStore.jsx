@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "./Css/Style.css";
 import data from "./data.json";
-import GlassesList from "./GlassesList";
 export default class GlassesStore extends Component {
 
   state ={
